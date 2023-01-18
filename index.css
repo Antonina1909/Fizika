@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;  
+    font-size: 24px; 
+    }
+
+    div {
+        padding: 15px;
+        margin: 5px;
+        text-align: center;     
+    }
+    
+    .blocks {
+        width: 100%;   
+    }
+
+    .blocks .block {     
+        width: 25%;
+        height: 250px;
+        text-align:left;
+        font-size: 20px;
+        float: left;
+        box-sizing: border-box;
+    }
+    
